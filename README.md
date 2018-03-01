@@ -38,3 +38,7 @@ Alp Akbaba 80<br />
 Nurcan Bulut 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+
+Melih Yılmaz 65<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü mevcut ancak daha optimize yazılması gerekli<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
