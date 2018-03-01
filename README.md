@@ -28,6 +28,10 @@ Berkay Geldi 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
  
- Hakan Altın 90<br />
+Hakan Altın 90<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+  
+Alp Akbaba 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
