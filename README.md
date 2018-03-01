@@ -1,12 +1,12 @@
 # bilgiuni-pyhton
 
-Eren Saraç : 100
-Eray Utku: 80
-     * Döngü sabit tanımlanmış
-Aytunç Çağlar: 80 
-     * 10 puan Hw1'de döngü sabit tanımlanmış. Dışarıdan alınması gerekli
-     * Git accountu istedğim gibi değil. Ders sırasnıda düzeltirse yükselir.
-Hüseyin Karaca: 40
+Eren Saraç : 100 \n
+Eray Utku: 80\n
+     * Döngü sabit tanımlanmış\n
+Aytunç Çağlar: 80 \n
+     * 10 puan Hw1'de döngü sabit tanımlanmış. Dışarıdan alınması gerekli\n
+     * Git accountu istedğim gibi değil. Ders sırasnıda düzeltirse yükselir.\n
+Hüseyin Karaca: 40\n
      * Repo yanlış.
      * Hesap makinesi döngü yok
      * Hw2 yok
