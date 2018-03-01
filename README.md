@@ -1,6 +1,6 @@
 # bilgiuni-pyhton
 
-Eren Saraç : 100 +1<br />
+Eren Saraç : 100 <br />
 Eray Utku: 80<br />
      * Döngü sabit tanımlanmış<br />
 Aytunç Çağlar: 80 <br />
