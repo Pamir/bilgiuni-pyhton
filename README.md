@@ -1,6 +1,6 @@
 # bilgiuni-pyhton
 
-Eren Saraç : 100 <br />
+Eren Saraç : 100 +1<br />
 Eray Utku: 80<br />
      * Döngü sabit tanımlanmış<br />
 Aytunç Çağlar: 80 <br />
@@ -24,7 +24,7 @@ Burhan Can 80<br />
      * Hesap makinesi döngü yok<br />
      * ReadMe yanlış<br />
  
-Berak Geldi 80<br /><br />
+Berkay Geldi 80<br />
      * Repo yanlış<br />
      * Hesap makinesi döngü yok<br />
  
