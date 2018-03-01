@@ -1,7 +1,7 @@
 # bilgiuni-pyhton
 
 Eren Saraç : 100 <br />
-Eray Utku: 80<br />
+Eray Utku: 90<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Döngü sabit tanımlanmış<br />
 Aytunç Çağlar: 80 <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 10 puan Hw1'de döngü sabit tanımlanmış. Dışarıdan alınması gerekli<br />
