@@ -2,32 +2,32 @@
 
 Eren Saraç : 100 <br />
 Eray Utku: 80<br />
-     * Döngü sabit tanımlanmış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Döngü sabit tanımlanmış<br />
 Aytunç Çağlar: 80 <br />
-     * 10 puan Hw1'de döngü sabit tanımlanmış. Dışarıdan alınması gerekli<br />
-     * Git accountu istedğim gibi değil. Ders sırasnıda düzeltirse yükselir.<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 10 puan Hw1'de döngü sabit tanımlanmış. Dışarıdan alınması gerekli<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Git accountu istedğim gibi değil. Ders sırasnıda düzeltirse yükselir.<br />
 Hüseyin Karaca: 40<br />
-     * Repo yanlış.<br />
-     * Hesap makinesi döngü yok<br />
-     * Hw2 yok<br />
-     * ReadMe Düzgün değil<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış.<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hw2 yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ReadMe Düzgün değil<br />
 Nazmi Yıldırım 40<br />
-     * Repo yanlış<br />
-     * Hesap makinesi döngü yok<br />
-     * Fibonacci yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Fibonacci yok<br />
 Esat Sedat Özdemir 80<br />
-     * Repo Yanlış<br />
-     * Hesap Döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo Yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Döngü yok<br />
 
 Burhan Can 80<br />
-     * Repo yanlış<br />
-     * Hesap makinesi döngü yok<br />
-     * ReadMe yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ReadMe yanlış<br />
  
 Berkay Geldi 80<br />
-     * Repo yanlış<br />
-     * Hesap makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
  
  Hakan Altın 90<br />
-     * Hesap Makinesi döngü yok<br />
-     * Repo yanlış<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
