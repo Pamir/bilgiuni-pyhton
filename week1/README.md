@@ -52,3 +52,5 @@ Taha Emral 95<br />
 Arda Çetin 100<br />
      
 Emre Dönmez 100<br />
+
+Tolga Kaan Ateş 100<br />
