@@ -35,7 +35,7 @@ Hakan Altın 90<br />
 Alp Akbaba 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
-Nurcan Bulut 80<br />
+Nurcan Bulut 95<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
 
