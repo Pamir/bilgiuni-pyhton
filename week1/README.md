@@ -50,4 +50,5 @@ Taha Emral 95<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Açıklama repo üstünde issue açılarak yapılmıştır.</br>
  
 Arda Çetin 100<br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Açıklama repo üstünde issue açılarak yapılmıştır.</br>
+     
+Emre Dönmez 100<br />
