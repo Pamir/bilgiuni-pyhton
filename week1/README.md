@@ -42,3 +42,6 @@ Nurcan Bulut 80<br />
 Melih Yılmaz 100<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü mevcut ancak daha optimize yazılması gerekli<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
+ 
+ Alican Kiraz 40<br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Açıklama repo üstünde issue açılarak yapılmıştır.
