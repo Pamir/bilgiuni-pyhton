@@ -15,7 +15,7 @@ Nazmi Yıldırım 40<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Fibonacci yok<br />
-Esat Sedat Özdemir 80<br />
+Esat Sedat Özdemir 95<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo Yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Döngü yok<br />
 
