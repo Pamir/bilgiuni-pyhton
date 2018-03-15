@@ -8,3 +8,5 @@
 
 ##Notlar
 Eray Utku 100 </p>
+Aytunç Çağlar 100 </p>
+Eren Saraç 100 </p>

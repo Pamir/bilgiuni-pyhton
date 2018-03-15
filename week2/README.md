@@ -32,7 +32,7 @@ Talha Tepe 95 </p>
 Sedat Özdemir 90 </p>
 Eray Utku 100 </p>
 Nurcan 80 </p>
-Eren Saraç 85 </p>
+Eren Saraç 100 </p>
 Tolga Kaan  100 </p>
 Arda Çetin 90 </p>
 Emre Dönmez 90 </p>
