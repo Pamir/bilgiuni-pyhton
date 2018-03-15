@@ -11,3 +11,5 @@ Eray Utku 100 </p>
 Aytunç Çağlar 100 </p>
 Eren Saraç 100 </p>
 Emre Dönmez 100 </p>
+Arda Çetin 100 </p>
+Tolga Kaan Ateş 100 </p>
