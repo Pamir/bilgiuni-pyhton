@@ -20,3 +20,23 @@ https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set
 https://www.programmingsimplified.com/c-program-find-palindrome.
 
 Bu  soruda kullanılmayacak yöntemler. String'i reverse et daha sonra çıktısı ile girileni karşılaştır aynı ise doğrudur yapmayın. Array e bölün tek sayı ise bir baştan bir sondan kontrol ederek ortanca elemena kadar gelin
+
+
+##Notlar </p>
+
+Berkay Geldi: 90 </p>
+Hasan Basri Köle 70 </p>
+Melih Yılmaz 70 </p>
+Hakan Altun 90 </p>
+Talha Tepe 95 </p>
+Sedat Özdemir 90 </p>
+Eray Utku 100 </p>
+Nurcan 80 </p>
+Eren Saraç 85 </p>
+Tolga Kaan  100 </p>
+Arda Çetin 90 </p>
+Emre Dönmez 90 </p>
+Aytunç Çağlar 90 </p>
+Ertunç Yıldız 90 </p>
+Nazmi Yıldırım 90 </p>
+Hüseyin Karaca 90 </p>

@@ -23,15 +23,15 @@ Burhan Can 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ReadMe yanlış<br />
- 
+
 Berkay Geldi 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
- 
+
 Hakan Altın 90<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
-  
+
 Alp Akbaba 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
@@ -42,15 +42,22 @@ Nurcan Bulut 95<br />
 Melih Yılmaz 100<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Makinesi döngü mevcut ancak daha optimize yazılması gerekli<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
- 
+
  Alican Kiraz 40<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Açıklama repo üstünde issue açılarak yapılmıştır.</br>
- 
+
 Taha Emral 95<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Açıklama repo üstünde issue açılarak yapılmıştır.</br>
- 
+
 Arda Çetin 100<br />
-     
+
 Emre Dönmez 100<br />
 
 Tolga Kaan Ateş 100<br />
+
+
+Hasan Köle 80<br />
+
+Furkan Güven 95<br />
+
+Eren Saraç 80 </br>
