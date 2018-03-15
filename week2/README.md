@@ -35,7 +35,7 @@ Nurcan 80 </p>
 Eren Saraç 100 </p>
 Tolga Kaan  100 </p>
 Arda Çetin 90 </p>
-Emre Dönmez 90 </p>
+Emre Dönmez 100 </p>
 Aytunç Çağlar 90 </p>
 Ertunç Yıldız 90 </p>
 Nazmi Yıldırım 90 </p>
