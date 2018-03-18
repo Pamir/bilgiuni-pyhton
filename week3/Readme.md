@@ -6,10 +6,11 @@
 5. https://codehabitude.com/2013/12/24/python-objects-mutable-vs-immutable/ okuyun </p>
 6. https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python okuyun ve bunu gerçekten extend metodunun daha hızlı çalıştığını gösterin.
 
-##Notlar
+# Notlar
 Eray Utku 100 </p>
 Aytunç Çağlar 100 </p>
 Eren Saraç 100 </p>
 Emre Dönmez 100 </p>
 Arda Çetin 100 </p>
 Tolga Kaan Ateş 100 </p>
+Kadir Alp Akbaba 100<br />
