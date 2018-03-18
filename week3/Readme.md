@@ -7,7 +7,7 @@
 6. https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python okuyun ve bunu gerçekten extend metodunun daha hızlı çalıştığını gösterin.
 
 ### Notlar
-Eray Utku 100
+Eray Utku 100 </p>
 Aytunç Çağlar 100 </p>
 Eren Saraç 100 </p>
 Emre Dönmez 100 </p>
