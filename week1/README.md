@@ -62,3 +62,7 @@ Furkan Güven 95<br />
 
 Eren Saraç 80 </br>
 Emel Bozkurt 100 </br>
+
+Talha Tepe 90 </br>
+
+Kadir Alp Akbaba 95<br />
