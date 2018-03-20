@@ -41,3 +41,4 @@ Ertunç Yıldız 90 </p>
 Nazmi Yıldırım 90 </p>
 Hüseyin Karaca 90 </p>
 Emel Bozkurt 80 </p>
+Hakan Ergül 90 </p>
