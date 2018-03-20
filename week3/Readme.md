@@ -17,4 +17,5 @@ Kadir Alp Akbaba 100<br />
 Hüseyin Karaca 100<br />
 Nazli Yıldırım 100 <br />
 Hakan Ali Ergül 100 <br />
+Talha Tepe 60 <br />
 
