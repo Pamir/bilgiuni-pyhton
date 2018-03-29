@@ -18,14 +18,15 @@
 2. Lütfen ödevleri perşembe gecesi 12'de yollamayın. Max çarşamba gecesi hazır olsun.
 
 
-Burhan Can Çıkrıkçı 40 <p />
-Sedat Özdemir 40 <p />
-Emre Dönmez 50 <p />
+Burhan Can Çıkrıkçı 100 <p />
+Sedat Özdemir 100 <p />
+Emre Dönmez 100 <p />
 Aytunç Çağlar 100 <p />
 Tolga Kaan Ateş 100 <p />
-Arda Çetin 50 <p />
+Arda Çetin 100 <p />
 Eray Utku 100 <p />
 Eren Saraç 100 <p />
-Berkay Geldi 40 <p />
+Berkay Geldi 100 <p />
 Nazmi Yıldırım 100 <p />
 Hüseyin Karaca 100 <p />
+Talha Tepe 100 <p />
