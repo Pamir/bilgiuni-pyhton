@@ -19,7 +19,7 @@ Esat Sedat Özdemir 95<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo Yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap Döngü yok<br />
 
-Burhan Can 80<br />
+Burhan Can Çakırcı 80<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Repo yanlış<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Hesap makinesi döngü yok<br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ReadMe yanlış<br />
@@ -66,3 +66,7 @@ Emel Bozkurt 100 </br>
 Talha Tepe 90 </br>
 
 Kadir Alp Akbaba 95<br />
+
+Sena Seray Tombul 85 <br />
+
+Ahmet Ufuk Culfa 50 <br>/

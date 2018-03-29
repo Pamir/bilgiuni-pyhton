@@ -16,4 +16,16 @@
 1. Infix'den Postfix'de dönüşüm yapan bir fonksiyon yazılacak. Yazılan fonksiyon Calculator sınıfında olacak. Kullanılmasını istediğim stack(yığın) ise derste yazdığımız stack olacak Method is infix2postfix olacak. postfix string'ini return edecek. "(" ")"  kontrol yapılmayacak. Sadece 4 işlem için bu işi yapacak.
 
 2. Lütfen ödevleri perşembe gecesi 12'de yollamayın. Max çarşamba gecesi hazır olsun.
- 
+
+
+Burhan Can Çıkrıkçı 40 <p />
+Sedat Özdemir 40 <p />
+Emre Dönmez 50 <p />
+Aytunç Çağlar 100 <p />
+Tolga Kaan Ateş 100 <p />
+Arda Çetin 50 <p />
+Eray Utku 100 <p />
+Eren Saraç 100 <p />
+Berkay Geldi 40 <p />
+Nazmi Yıldırım 100 <p />
+Hüseyin Karaca 100 <p />

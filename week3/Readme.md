@@ -13,8 +13,11 @@ Eren Saraç 100 </p>
 Emre Dönmez 100 </p>
 Arda Çetin 100 </p>
 Tolga Kaan Ateş 100 </p>
-<<<<<<< HEAD
-Berkay Geldi 100 </p>
-=======
 Kadir Alp Akbaba 100<br />
->>>>>>> 9585d9b730a98ffbae6ad69efc44924012d30ae8
+Berkay Geldi 100 </p>
+Sedat Özdemir 90 </p>
+Talha Tepe 90 </p>
+Sena Seray Tombul 90 </p>
+Burhan Can Çıkrıkçı 100 </p>
+Hakan Altın 100 </p>
+Ahmet Ufuk Culfa 100 </p>

@@ -29,7 +29,7 @@ Hasan Basri Köle 70 </p>
 Melih Yılmaz 70 </p>
 Hakan Altun 90 </p>
 Talha Tepe 95 </p>
-Sedat Özdemir 90 </p>
+Sedat Özdemir 100 </p>
 Eray Utku 100 </p>
 Nurcan 80 </p>
 Eren Saraç 100 </p>
@@ -41,3 +41,7 @@ Ertunç Yıldız 90 </p>
 Nazmi Yıldırım 90 </p>
 Hüseyin Karaca 90 </p>
 Emel Bozkurt 80 </p>
+Furkan Güven 80 </p>
+Ahmet Ufuk Culfa 75 </p>
+Sena Seray Tombul 75 </p>
+Burhan Can Çıkrıkçı 85 </p>
