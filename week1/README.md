@@ -66,7 +66,6 @@ Emel Bozkurt 100 </br>
 Talha Tepe 90 </br>
 
 Kadir Alp Akbaba 95<br />
-
 Sena Seray Tombul 85 <br />
-
 Ahmet Ufuk Culfa 50 <br>/
+Hakan Ali Ergül 80 <br />

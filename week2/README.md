@@ -41,7 +41,10 @@ Ertunç Yıldız 90 </p>
 Nazmi Yıldırım 90 </p>
 Hüseyin Karaca 90 </p>
 Emel Bozkurt 80 </p>
+
 Furkan Güven 80 </p>
 Ahmet Ufuk Culfa 75 </p>
 Sena Seray Tombul 75 </p>
 Burhan Can Çıkrıkçı 85 </p>
+
+Hakan Ali Ergül 90 </p>
