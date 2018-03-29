@@ -15,7 +15,7 @@ Arda Çetin 100 <br />
 Tolga Kaan Ateş 100 <br />
 Kadir Alp Akbaba 100<br />
 Berkay Geldi 100 </p>
-Sedat Özdemir 90 </p>
+Sedat Özdemir 100 </p>
 Talha Tepe 90 </p>
 Sena Seray Tombul 90 </p>
 Burhan Can Çıkrıkçı 100 </p>
